@@ -10,7 +10,7 @@ This is a WhatsApp Chat Analyzer built with Streamlit, allowing users to analyze
 - User Statistics: Get insights on who sends the most messages.
 
 ## 📂 Project Structure
-
+```bash
 whatsapp-chat-analyzer/
 │-- app.py                   # Main Streamlit app
 │-- helper.py                # Helper functions for data processing
@@ -18,6 +18,7 @@ whatsapp-chat-analyzer/
 │-- stop_hinglish.txt        # Stopwords list for text filtering
 │-- README.md                # Project documentation
 └── dataset/                 # Folder for chat dataset (if needed)
+```
 
 ## 🚀 Deploy on Streamlit Cloud
 
